@@ -14,7 +14,7 @@ ul {
   grid-column: 1 / 2;
 }
 
-.channelName {
+.channel-name {
   grid-area: 1 / 2;
 }
 
