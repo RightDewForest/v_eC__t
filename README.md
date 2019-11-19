@@ -1,15 +1,18 @@
 # vuechat
 
-> A sample chat of Vue.js
+> A sample chat program of Vue.js 
+(React、Angular、Vue.js、React Nativeを使って学ぶ はじめてのフロントエンド開発 by Kazuhiro Hara)
+
 
 ## Build Setup
+On the book, Written as run with npm，but I migrated npm to yarn.
 
 ``` bash
 # install dependencies
 yarn install
 
 # serve with hot reload at localhost:8080
-yarn run dev
+yarn run dev or npm run dev
 
 ```
 ~~# build for production with minification
